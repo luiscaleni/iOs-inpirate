@@ -1,3 +1,4 @@
 # iOS-inspirate
 Apple inspirate
-![iPhone 14](https://github.com/luiscaleni/iOS-inspirate/assets/77455357/a4137681-3f06-4283-9cd9-0dc2fed0115d)
+
+![iOS](https://github.com/luiscaleni/iOs-inpirate/assets/77455357/99c8afb2-7fae-458b-af17-800bfb9efd6c)
